@@ -1,7 +1,7 @@
 # VLD-RAG: Visually-rich Long Document Retrieval-Augmented Generation
 
 > **Work in Progress**  
-> This project is currently under active development. Features and APIs may change.
+> This project is currently under active development.
 
 Visually-rich documents such as reports, slides, and manuals often distribute the evidence needed to answer a question across multiple pages, mixing text with layout cues, tables, charts, and figures. This work studies multimodal retrieval-augmented generation for question answering over such visually-rich long documents, where retrieval must select evidence pages that include both textual and visual signals.
 
