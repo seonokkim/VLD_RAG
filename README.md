@@ -127,8 +127,6 @@ Installation instructions will be added as the project progresses. See `setup/` 
 - rank-bm25 (for BM25 retrieval)
 - NumPy, PIL (for image processing)
 
-## Usage
-
 Usage examples and documentation will be added as features are completed.
 
 ### Basic Example
@@ -195,22 +193,3 @@ metrics = calculate_all_metrics(
 )
 ```
 
-## Status
-
-**This repository is a work-in-progress.** The project is being actively developed and refactored. Current implementation includes:
-
-- ✅ Parser module with PaddleOCR integration
-- ✅ LLM integration modules (Qwen3-VL, InternVL)
-- ✅ Retriever components (BM25, ColPali, vector loader)
-- ✅ Database integration (Neon PostgreSQL entities)
-- ✅ Evaluation metrics (retrieval metrics)
-- 🚧 Agent modules (in development)
-- 🚧 Full pipeline integration (in development)
-
-## Contributing
-
-This project is in active development. Please note that APIs and structure may change.
-
-## License
-
-License information will be added.
